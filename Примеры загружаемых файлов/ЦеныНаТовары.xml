@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<NomenclatureList>
+	<Nomenclature>
+		<Name>DMA A9</Name>
+		<Price>10000</Price>
+	</Nomenclature>
+	<Nomenclature>
+		<Name>DMA A9</Name>
+		<Price>15000</Price>
+	</Nomenclature>
+</NomenclatureList>

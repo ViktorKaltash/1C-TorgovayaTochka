@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<NomenclatureList>
+	<Nomenclature>
+		<Name>Вентилятор CoolIce B2A1</Name>
+		<PrintName>Вентилятор CoolIce B2A1</PrintName>
+		<Article>070001</Article>
+		<NType>Товар</NType>
+		<ExtraInfo>Передовой Вентилятор компании "Cool Ice", позволяет не зажариться даже в +40 градусов</ExtraInfo>
+	</Nomenclature>
+	<Nomenclature>
+		<Name>Вентилятор Kasass L1</Name>
+		<PrintName>Вентилятор Kasass L1</PrintName>
+		<Article>070002</Article>
+		<NType>Товар</NType>
+		<ExtraInfo>Передовой Вентилятор компании "Cool Ice", позволяет не зажариться даже в +50 градусов</ExtraInfo>
+	</Nomenclature>
+</NomenclatureList>

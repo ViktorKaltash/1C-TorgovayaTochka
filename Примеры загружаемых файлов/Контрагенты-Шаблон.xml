@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<ContragentList>
+	<Contragent>
+		<Name></Name>
+		<CutName></CutName>
+		<CType></CType>
+		<TaxNumber></TaxNumber>
+		<INN></INN>
+		<KPP></KPP>
+		<ExtraInfo></ExtraInfo>
+		<RAdress></RAdress>
+		<LAdress></LAdress>
+		<Telephone></Telephone>
+		<Mail></Mail>
+		<Site></Site>
+		<IsClient></IsClient>
+		<IsDealer></IsDealer>
+	</Contragent>
+</ContragentList>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<ContragentList>
+	<Contragent>
+		<Name>Закупин Андрей Викторович</Name>
+		<CutName></CutName>
+		<CType>Физическое Лицо</CType>
+		<TaxNumber></TaxNumber>
+		<INN></INN>
+		<KPP></KPP>
+		<ExtraInfo>Покупатель инициализарован 05.05.2025</ExtraInfo>
+		<RAdress>Ул. Пушкина, Д. Колотушкина, кв. 5</RAdress>
+		<LAdress></LAdress>
+		<Telephone>8005553534</Telephone>
+		<Mail>Zakupinv@mail.ru</Mail>
+		<Site></Site>
+		<IsClient>True</IsClient>
+		<IsDealer></IsDealer>
+	</Contragent>
+	<Contragent>
+		<Name>ООО Пятак</Name>
+		<CutName>ООО Пятак</CutName>
+		<CType>Юридическое лицо</CType>
+		<TaxNumber>1234124346</TaxNumber>
+		<INN>123512351532</INN>
+		<KPP>513215321</KPP>
+		<ExtraInfo></ExtraInfo>
+		<RAdress>г. Москва, Ул. Фабричная, д.23</RAdress>
+		<LAdress>г. Москва, Ул. Фабричная, д.23</LAdress>
+		<Telephone>9535543534</Telephone>
+		<Mail>Pyatak@mail.ru</Mail>
+		<Site></Site>
+		<IsClient>False</IsClient>
+		<IsDealer>True</IsDealer>
+	</Contragent>
+	<Contragent>
+		<Name>ООО Попутный Ветер</Name>
+		<CutName>ООО Попутный Ветер</CutName>
+		<CType>Юридическое лицо</CType>
+		<TaxNumber>1534124346</TaxNumber>
+		<INN>123515321532</INN>
+		<KPP>513231321</KPP>
+		<ExtraInfo>Поставщик вентиляторов</ExtraInfo>
+		<RAdress>г. Барнаул, Ул. Малахова, Д. 44</RAdress>
+		<LAdress>г. Барнаул, Ул. Малахова, Д. 44</LAdress>
+		<Telephone>9535542134</Telephone>
+		<Mail>Second-Wind@mail.ru</Mail>
+		<Site></Site>
+		<IsClient>True</IsClient>
+		<IsDealer>True</IsDealer>
+	</Contragent>
+</ContragentList>
